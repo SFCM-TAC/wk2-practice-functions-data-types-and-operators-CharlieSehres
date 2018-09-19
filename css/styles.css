@@ -1,12 +1,17 @@
 body {
   font-family: arial;
+  background-color: rgb(255, 254, 234)
+
 }
 
 .question {
-  margin: 10px 0 10px 0;
+  font-style: italic;
+  margin: 50px 50px 10px 50px;
+
 }
 .results {
-  border: 1px solid;
-  padding: 10px;
-  margin-bottom: 10px;
+  margin: 10px 50px 0px 50px;
+  font-size: 20px
+  
+
 }
